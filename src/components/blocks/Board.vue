@@ -188,9 +188,9 @@ export default {
   justify-content: space-between;
 }
 
-/* .block {
+.block {
   max-width: 300px;
-} */
+}
 
 .task {
   margin-bottom: 0.7rem;
